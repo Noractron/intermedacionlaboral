@@ -1,0 +1,54 @@
+.mision h2{
+    font-size:14px
+}
+.mision span{
+    text-align:justify
+}
+.title{
+    font-size:25px;
+    font-weight: bold;
+}
+
+.subtitle{  
+    font-size:20px;
+    font-weight: bold;
+}
+.quees h2{
+    font-size:14px
+}
+h2{
+    color:black;
+}
+ul{
+    color:black;
+}
+#contenido{
+    color:#7305FF;
+    /* text-shadow: #111 5px 5px 5px; */
+    margin-top: 5rem;
+    margin-left:35rem;
+    margin-right: 35rem;
+    margin-top: 0;
+    min-width: 35rem;
+    width: 40%;
+    text-align:justify;
+    vertical-align: middle;
+}
+
+.image-fondo {
+    background-image: url("/images/titulo.png");
+    
+}
+.cabecera{
+    color: #fff;
+    height: 300px;
+    text-align: center;
+    margin-top: 0;
+    padding-top:0;
+  }
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
